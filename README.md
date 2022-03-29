@@ -24,7 +24,7 @@ This app, built on Nvidia's Deepsteam SDK, would also help corporate buildings, 
 
 An Intelligent Video Analytics Pipeline powered by Deepstream and NVIDIA Jetson Xavier NX. 
 
-![Jetson Nano](resources/jetson.jpg)
+![Jetson](resources/jetson.jpg)
 
 This project is a proof-of-concept, trying to detect a Fallen person.
 
