@@ -4,7 +4,7 @@ Man down situations (MDS) are a health or life threatening situations occurring 
 Industries require to ensure employee protection by adopting preventive measures, appropriate safety equipment and occupational health and safety training. However, any given workplace will never be totally safe from accidents especially for a lone worker and high-risk workers. In this context, portable devices alerting a control center when an emergency is detected should be worn with main advantage to call help when worker is unable to do it on his own, either due to loss of consciousness or an incapacitating injury. These systems are therefore essential in ensuring occupational health and safety in the workplace, and their reliability is just as critical.
 This app, built on Nvidia's Deepsteam SDK, would also help corporate buildings, commercial complexes , industries, old age home to detect and help Man down person. 
 
-! [Man_Down] (resource/fall_down.png)
+![Man_Down] (resource/fall_down.png)
 
 ## Index
 
